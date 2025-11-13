@@ -316,12 +316,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
  
 
-## Result :
- ![alt text](<Screenshot 2025-10-31 140243.png>)
+
 ## Output  :
+![alt text](<Screenshot 2025-10-31 140243.png>)
 
 ![alt text](Output2.jpeg)
 
 
 ![alt text](Output1.jpeg)
 
+## Result :
+Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
